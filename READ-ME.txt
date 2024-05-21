@@ -1,0 +1,9 @@
+  =>  Website Name    : Restoran Restaurant 
+
+  =>  Content    : i have used lorem ipsum content 
+
+  =>  Technologies: I have build this site using Html/bootstrap/Js
+
+  =>  Author Name   : Muhammad Usman Hussain
+
+  
